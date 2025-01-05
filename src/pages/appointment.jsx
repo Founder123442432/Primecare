@@ -45,6 +45,7 @@ export default function Appoitment() {
       alert("somthing went wrong, sorry:(");
     }
   }
+
   usePageTitle("book a service");
   return (
     <div className="max-w-6xl px-6 py-10 mx-auto">
